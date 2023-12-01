@@ -579,7 +579,39 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1894979926873702048, guid: bfdfb184ae5d23447a7cbf0a8b356e07, type: 3}
       propertyPath: m_text
-      value: Forward
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1894979926873702048, guid: bfdfb184ae5d23447a7cbf0a8b356e07, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: d6504234e21120d4290a04f16a3fe450, type: 2}
+    - target: {fileID: 1894979926873702048, guid: bfdfb184ae5d23447a7cbf0a8b356e07, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1894979926873702048, guid: bfdfb184ae5d23447a7cbf0a8b356e07, type: 3}
+      propertyPath: m_StyleSheet
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1894979926873702048, guid: bfdfb184ae5d23447a7cbf0a8b356e07, type: 3}
+      propertyPath: m_spriteAsset
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1894979926873702048, guid: bfdfb184ae5d23447a7cbf0a8b356e07, type: 3}
+      propertyPath: m_isRightToLeft
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1894979926873702048, guid: bfdfb184ae5d23447a7cbf0a8b356e07, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 5668247995417492076, guid: d6504234e21120d4290a04f16a3fe450, type: 2}
+    - target: {fileID: 1894979926873702048, guid: bfdfb184ae5d23447a7cbf0a8b356e07, type: 3}
+      propertyPath: m_TextStyleHashCode
+      value: -1183493901
+      objectReference: {fileID: 0}
+    - target: {fileID: 1894979926873702048, guid: bfdfb184ae5d23447a7cbf0a8b356e07, type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1894979927109472492, guid: bfdfb184ae5d23447a7cbf0a8b356e07, type: 3}
       propertyPath: m_Pivot.x
