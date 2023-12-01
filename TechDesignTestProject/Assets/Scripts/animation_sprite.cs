@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class script_animation_sprite : MonoBehaviour
+public class animation_sprite : MonoBehaviour
 {
     public bool isLooped = false;
     private Animator animator;
